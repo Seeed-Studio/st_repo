@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: buster
+Label: main
+Architecture: source
+Description: repository for stm32mp1 debian buster

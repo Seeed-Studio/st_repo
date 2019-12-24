@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Suite: stable
+Codename: bionic
+Date: Mon, 30 Sep 2019 09:39:05 UTC
+Architectures: armhf
+Components: main
+Description: repository for ubuntu bionic
+MD5Sum:
+ 0571ae3cc037a3cd652699f16a57657a 1311 main/binary-armhf/Packages
+ c5d06a49b5f4ae656862b028ec4eb1c8 607 main/binary-armhf/Packages.gz
+ 9929d60411b84fb512ff6793e0ecbb5a 94 main/binary-armhf/Release
+ d41d8cd98f00b204e9800998ecf8427e 0 main/debian-installer/binary-armhf/Packages
+ 7029066c27ac6f5ef18d660d5741979a 20 main/debian-installer/binary-armhf/Packages.gz
+ d41d8cd98f00b204e9800998ecf8427e 0 main/source/Sources
+ 7029066c27ac6f5ef18d660d5741979a 20 main/source/Sources.gz
+ 9dbf49fe944dc1c961cf14fca3840659 95 main/source/Release
+SHA1:
+ d1f4f6ff4d35cf769beab1cf5113740065ebd42b 1311 main/binary-armhf/Packages
+ b32e2c89b9ae6fd76a4ea9814b2dad4430657a72 607 main/binary-armhf/Packages.gz
+ 3cef8a2c4a14c17cd71e3eef369abfe9faba52af 94 main/binary-armhf/Release
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/debian-installer/binary-armhf/Packages
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/debian-installer/binary-armhf/Packages.gz
+ da39a3ee5e6b4b0d3255bfef95601890afd80709 0 main/source/Sources
+ 46c6643f07aa7f6bfe7118de926b86defc5087c4 20 main/source/Sources.gz
+ 40db175637f17f8c64f4b94ae3a23cf43a6f94ab 95 main/source/Release
+SHA256:
+ b4e404807e44a9f14f91e28fbf6b12aa8085aacf7b959758c25ca3aaf6f23189 1311 main/binary-armhf/Packages
+ 4dadacae8d41e0941f08b4bac14be16241355c1aecf610b5376db74731063b13 607 main/binary-armhf/Packages.gz
+ d3d9d36cfe9a690b83e954ecc0489544f14a91870e0fde840748ecd478098e1f 94 main/binary-armhf/Release
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/debian-installer/binary-armhf/Packages
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/debian-installer/binary-armhf/Packages.gz
+ e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 main/source/Sources
+ 59869db34853933b239f1e2219cf7d431da006aa919635478511fabbfc8849d2 20 main/source/Sources.gz
+ 1f55521957818cd7f3637376e7c835df15950059702159644664385ce42008d9 95 main/source/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEk1dqVCREUBIdFHHs3GEhV0o7+KwFAl2RzToACgkQ3GEhV0o7
++KzFZQ/+NWHzdJCs++ddIseycSHd7PVzYxdcKf8++PoQaZ+7cpJ6qmfi5k+BcjFW
+Le7LdapXiQeuFCIXFLE5rXdVjrOgf2GWglU2Yr/UZTHiNKivxONioaxqP80m2GTr
+qdDcYfBgB24/L+8lxX+gneFmGTeL3rHeyuKSiVJsPGabMjGIMxnzGRgDffQc72xJ
+qcp3RE+EK8TIC3i1hf67QP0dvAJtYoi0GWA2HP2cAKj4JoL3DRnHa1IfnjJjsHkV
+w/BTFy1LOJnddqcCMh5fPhIgww/mOv0MBgDwgzfRauqfLkEsyPVrQAbkD2wv+kA1
+GVBv27i2B0SBJ8onSZEcOGsZApigVlLiCRYzIEcc3+vBK3KGe51Q9dKoqV7DnF+M
+FtylvODAkTInTBaWFtJgS3aJkPrdxyB3W5p8rUAVNy9Lwxt/B62qgIgd6i4PKvYg
+jD/4Hr22aGt5qjLVuP6HIFANhrNwOyqx/HPtMdnC3gv/1LzmF88H3RcThOb01pGR
+FM7alPCkxGsxcVep6FzTwJf17ghHGGVpSZV8gd/9AbuUKaw0tcs0e3umPfYHfoJm
+99aWCic1NLkho6h5BFqcAq+vP7tv7lscxzqhHBkqaOW5MXl4l+PvVuA0JIE+mJBU
+7ippbZARHAmHKtxNDiuO7Ls8iRDEjpvlq5Bj8AscxYAtpq/iGGg=
+=gQmt
+-----END PGP SIGNATURE-----

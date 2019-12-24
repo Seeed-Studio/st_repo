@@ -1,0 +1,37 @@
+Package: linux-headers-4.19.71-imx-r1
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: pi <pi@raspberrypi>
+Installed-Size: 72078
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-4.19.71-imx-r1_1stable_armhf.deb
+Size: 10917280
+SHA256: c9741812371f2cf5e372a7bfc4c8175b6e9f826aa15ed418c518b1f2c9aaa139
+SHA1: a473c7c38f4cb009b3da7376a37843550af390f7
+MD5sum: 71705e62cf76676d88340f71b224306e
+Description: Linux kernel headers for 4.19.71-imx-r1 on armhf
+ This package provides kernel header files for 4.19.71-imx-r1 on armhf
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-4.19.71-imx-r1
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: pi <pi@raspberrypi>
+Installed-Size: 53864
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-4.19.71-imx-r1_1stable_armhf.deb
+Size: 9284752
+SHA256: b8d44b7a1b52991e04cd7da44be5c4df4b38da248d81958057e4b8e86088e817
+SHA1: 95825836e9869dae5e98ccb3538424215679e423
+MD5sum: 25a424ddbda564526394048378e1848a
+Description: Linux kernel, version 4.19.71-imx-r1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.71-imx-r1.
+

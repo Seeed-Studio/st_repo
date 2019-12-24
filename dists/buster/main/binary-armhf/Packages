@@ -1,0 +1,109 @@
+Package: linux-headers-4.19.71-imx-r1
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: pi <pi@raspberrypi>
+Installed-Size: 72078
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-4.19.71-imx-r1_1stable_armhf.deb
+Size: 10917280
+SHA256: c9741812371f2cf5e372a7bfc4c8175b6e9f826aa15ed418c518b1f2c9aaa139
+SHA1: a473c7c38f4cb009b3da7376a37843550af390f7
+MD5sum: 71705e62cf76676d88340f71b224306e
+Description: Linux kernel headers for 4.19.71-imx-r1 on armhf
+ This package provides kernel header files for 4.19.71-imx-r1 on armhf
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-headers-4.19.9-stm32-r2
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: pi <pi@raspberrypi>
+Installed-Size: 71507
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-headers-4.19.9-stm32-r2_1stable_armhf.deb
+Size: 10829036
+SHA256: 7870e4522fc7cc2a93e882e6e547c567f00bae9a22aa027313fa6de447f22aef
+SHA1: 02ea364ee402328e07f3a7c008d5e1743eab3afd
+MD5sum: afc86a4dba0b4dddaa07dcf49c71f853
+Description: Linux kernel headers for 4.19.9-stm32-r2 on armhf
+ This package provides kernel header files for 4.19.9-stm32-r2 on armhf
+ .
+ This is useful for people who need to build external modules
+
+Package: linux-image-4.19.71-imx-r1
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: pi <pi@raspberrypi>
+Installed-Size: 53864
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-4.19.71-imx-r1_1stable_armhf.deb
+Size: 9284752
+SHA256: b8d44b7a1b52991e04cd7da44be5c4df4b38da248d81958057e4b8e86088e817
+SHA1: 95825836e9869dae5e98ccb3538424215679e423
+MD5sum: 25a424ddbda564526394048378e1848a
+Description: Linux kernel, version 4.19.71-imx-r1
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.71-imx-r1.
+
+Package: linux-image-4.19.9-stm32-r2
+Source: linux-upstream
+Version: 1stable
+Architecture: armhf
+Maintainer: pi <pi@raspberrypi>
+Installed-Size: 29960
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: kernel
+Filename: pool/main/l/linux-upstream/linux-image-4.19.9-stm32-r2_1stable_armhf.deb
+Size: 11140168
+SHA256: 8242d6640773d7fc9aba4dd04f9998e43618cc9c5d9f89a36ae10fed3c8e816f
+SHA1: 240b6d2be9b7a097584e6e68b856336d28a20bf3
+MD5sum: 417ca9b0ad4c8fe61312e89d9028f4a7
+Description: Linux kernel, version 4.19.9-stm32-r2
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.9-stm32-r2.
+
+Package: linux-libc-dev
+Source: linux-upstream
+Version: 1
+Architecture: armhf
+Maintainer: peter <peter@BeagleBoard-X15.localdomain>
+Installed-Size: 5181
+Provides: linux-kernel-headers
+Homepage: http://www.kernel.org/
+Priority: optional
+Section: devel
+Filename: pool/main/l/linux-upstream/linux-libc-dev_1_armhf.deb
+Size: 999248
+SHA256: 302dcd4d601ba9943eef294e2fb0132d5edeea4b99181259dc8ae45f61965590
+SHA1: 4914bbd2bb76b7d84093c9380f0ee9a529493ea8
+MD5sum: 197f60db6e73ac276b400a02ccfa9f68
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+
+Package: stm32mp1-bootcfg
+Version: 0.0.1-1
+Architecture: armhf
+Maintainer: Peter Yang <turmary@126.com>
+Installed-Size: 66
+Homepage: https://gitee.com/turmary/stm32mp1-bootcfg
+Priority: optional
+Section: base
+Filename: pool/main/s/stm32mp1-bootcfg/stm32mp1-bootcfg_0.0.1-1_armhf.deb
+Size: 25344
+SHA256: 2d3ab254c3e3f349efa49f3387410675f9152790dde32ad6f7816cb2875ba047
+SHA1: f88fd4e7c5141f89c229cf07cc64862caddb3105
+MD5sum: 3da6d0b751820bbdd74665a08c4affc8
+Description: STM32MP1 bootloader configuration
+ device tree version, splash, and so on.
+
