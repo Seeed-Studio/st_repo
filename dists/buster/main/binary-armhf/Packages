@@ -1,3 +1,19 @@
+Package: ap6xxx-firmware
+Version: 0.0.1-1
+Architecture: armhf
+Maintainer: Peter Yang <turmary@126.com>
+Installed-Size: 3799
+Homepage: https://gitee.com/turmary/stm32mp1-bootcfg/tree/ap6xxx-fw
+Priority: optional
+Section: database
+Filename: pool/main/a/ap6xxx-firmware/ap6xxx-firmware_0.0.1-1_armhf.deb
+Size: 1138752
+SHA256: 139419bd38c5002febac2b190afc5b6eabdfb727368b866c00f4cc85194bf688
+SHA1: 5e2d86e6013d78f147996f73687f5b4688903172
+MD5sum: 845eca40491957fe86c0251687905530
+Description: STM32MP1 bootloader configuration
+ device tree version, splash, and so on.
+
 Package: linux-headers-4.19.71-imx-r1
 Source: linux-upstream
 Version: 1stable
@@ -17,7 +33,7 @@ Description: Linux kernel headers for 4.19.71-imx-r1 on armhf
  .
  This is useful for people who need to build external modules
 
-Package: linux-headers-4.19.9-stm32-r2
+Package: linux-headers-4.19.9-stm32-r1
 Source: linux-upstream
 Version: 1stable
 Architecture: armhf
@@ -26,13 +42,13 @@ Installed-Size: 71507
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-headers-4.19.9-stm32-r2_1stable_armhf.deb
-Size: 10829036
-SHA256: 7870e4522fc7cc2a93e882e6e547c567f00bae9a22aa027313fa6de447f22aef
-SHA1: 02ea364ee402328e07f3a7c008d5e1743eab3afd
-MD5sum: afc86a4dba0b4dddaa07dcf49c71f853
-Description: Linux kernel headers for 4.19.9-stm32-r2 on armhf
- This package provides kernel header files for 4.19.9-stm32-r2 on armhf
+Filename: pool/main/l/linux-upstream/linux-headers-4.19.9-stm32-r1_1stable_armhf.deb
+Size: 10828768
+SHA256: e4e5d5d80ba017c1df0cfd8108a2ddd3bc8a98453cff7cdc57517a87e08ccdf5
+SHA1: d6099c3a56bb9414acc02cc36f9cec1ad3fe26ef
+MD5sum: 87fb09abfb243e60fbbdd91160572923
+Description: Linux kernel headers for 4.19.9-stm32-r1 on armhf
+ This package provides kernel header files for 4.19.9-stm32-r1 on armhf
  .
  This is useful for people who need to build external modules
 
@@ -54,7 +70,7 @@ Description: Linux kernel, version 4.19.71-imx-r1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 4.19.71-imx-r1.
 
-Package: linux-image-4.19.9-stm32-r2
+Package: linux-image-4.19.9-stm32-r1
 Source: linux-upstream
 Version: 1stable
 Architecture: armhf
@@ -63,14 +79,14 @@ Installed-Size: 29960
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
-Filename: pool/main/l/linux-upstream/linux-image-4.19.9-stm32-r2_1stable_armhf.deb
-Size: 11140168
-SHA256: 8242d6640773d7fc9aba4dd04f9998e43618cc9c5d9f89a36ae10fed3c8e816f
-SHA1: 240b6d2be9b7a097584e6e68b856336d28a20bf3
-MD5sum: 417ca9b0ad4c8fe61312e89d9028f4a7
-Description: Linux kernel, version 4.19.9-stm32-r2
+Filename: pool/main/l/linux-upstream/linux-image-4.19.9-stm32-r1_1stable_armhf.deb
+Size: 11154220
+SHA256: 19ce5b2b7f91c8616b09f55a5d844e083a290db96b4d84634e3a30c7248c26bf
+SHA1: 242541be2c96ff7494467342ef51009ab82ae814
+MD5sum: 4679987050ba5f7ab8c63bfd8efeb830
+Description: Linux kernel, version 4.19.9-stm32-r1
  This package contains the Linux kernel, modules and corresponding other
- files, version: 4.19.9-stm32-r2.
+ files, version: 4.19.9-stm32-r1.
 
 Package: linux-libc-dev
 Source: linux-upstream
