@@ -38,15 +38,15 @@ Source: linux-upstream
 Version: 1stable
 Architecture: armhf
 Maintainer: pi <pi@raspberrypi>
-Installed-Size: 71507
+Installed-Size: 71577
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
 Filename: pool/main/l/linux-upstream/linux-headers-4.19.9-stm32-r1_1stable_armhf.deb
-Size: 10828768
-SHA256: e4e5d5d80ba017c1df0cfd8108a2ddd3bc8a98453cff7cdc57517a87e08ccdf5
-SHA1: d6099c3a56bb9414acc02cc36f9cec1ad3fe26ef
-MD5sum: 87fb09abfb243e60fbbdd91160572923
+Size: 10833864
+SHA256: c426e9b643c15862070f0bfa06272193244b4181ca652cd8cd7a1c13f963f1c8
+SHA1: b512ddbc929c726d522d6aa06f33ad8d76abfd03
+MD5sum: a689929c0d0be366e3422288cefe5001
 Description: Linux kernel headers for 4.19.9-stm32-r1 on armhf
  This package provides kernel header files for 4.19.9-stm32-r1 on armhf
  .
@@ -75,15 +75,15 @@ Source: linux-upstream
 Version: 1stable
 Architecture: armhf
 Maintainer: pi <pi@raspberrypi>
-Installed-Size: 29960
+Installed-Size: 33148
 Homepage: http://www.kernel.org/
 Priority: optional
 Section: kernel
 Filename: pool/main/l/linux-upstream/linux-image-4.19.9-stm32-r1_1stable_armhf.deb
-Size: 11154220
-SHA256: 19ce5b2b7f91c8616b09f55a5d844e083a290db96b4d84634e3a30c7248c26bf
-SHA1: 242541be2c96ff7494467342ef51009ab82ae814
-MD5sum: 4679987050ba5f7ab8c63bfd8efeb830
+Size: 11722260
+SHA256: c37aed7ad22f6427c01f244b575e3d9af9e76ea7f191433b7ef7e95081fbfe56
+SHA1: 9c56cd690b520530c4914b7da33c75f9f80a0014
+MD5sum: 95e7fe24a26a73d450f788ceb7af60d1
 Description: Linux kernel, version 4.19.9-stm32-r1
  This package contains the Linux kernel, modules and corresponding other
  files, version: 4.19.9-stm32-r1.
