@@ -1,0 +1,18 @@
+Package: seeed-linux-dtoverlay-bb-4.14.108-ti-r124
+Version: 1stretch
+Architecture: armhf
+Maintainer: Baozhu Zuo <zuobaozhu@gmail.com>
+Installed-Size: 620
+Pre-Depends: linux-image-4.14.108-ti-r124
+Multi-Arch: foreign
+Homepage: https://github.com/Seeed-Studio/seeed-linux-dtverlays
+Priority: optional
+Section: misc
+Filename: pool/main/s/seeed-linux-dtoverlay-bb-4.14.108-ti-r124/seeed-linux-dtoverlay-bb-4.14.108-ti-r124_1stretch_armhf.deb
+Size: 137324
+SHA256: 2a4c97476a7cffdf8cbc6fc0e25b689d06b607d83c4531c55072f1d908ff8a34
+SHA1: 48720752ac69f0f9ecc9bd23d2d949c96eba9d36
+MD5sum: e40f273328b862bca64ceb08ed45a8dc
+Description: seeed linux dtoverlays
+ Kernel modules for grove devices
+

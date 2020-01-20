@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: stretch
+Label: main
+Architecture: source
+Description: repository for debian stretch

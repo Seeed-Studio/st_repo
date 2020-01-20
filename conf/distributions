@@ -8,6 +8,17 @@ Architectures: armhf source
 Description: repository for debian buster
 SignWith: 4A3BF8AC
 
+Origin: stretch
+Label: main
+Codename: stretch
+Suite: stable
+Components: main
+UDebComponents: main
+Architectures: armhf source
+Description: repository for debian stretch
+SignWith: 4A3BF8AC
+
+
 Codename: bionic
 Suite: stable
 Components: main

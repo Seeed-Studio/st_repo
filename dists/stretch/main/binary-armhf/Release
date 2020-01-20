@@ -1,0 +1,6 @@
+Archive: stable
+Component: main
+Origin: stretch
+Label: main
+Architecture: armhf
+Description: repository for debian stretch
