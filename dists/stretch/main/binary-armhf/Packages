@@ -1,18 +1,18 @@
 Package: python3-snowboy
 Source: snowboy
-Version: 1.3.0-1
+Version: 1.3.1-1
 Architecture: all
 Maintainer: KITT.AI <snowboy@kitt.ai>
-Installed-Size: 11935
-Depends: python3 (<< 3.8), python3 (>= 3.7~), python3-pyaudio, python3:any
+Installed-Size: 11893
+Depends: python3 (<< 3.6), python3 (>= 3.5~), python3-pyaudio, python3:any (>= 3.3.2-2~)
 Homepage: https://snowboy.kitt.ai
 Priority: optional
 Section: python
-Filename: pool/main/s/snowboy/python3-snowboy_1.3.0-1_all.deb
-Size: 10623304
-SHA256: 928d56f75f9de08181a3f0aafaca8487a3b73fc03d56692d3a7eb70ade8023ce
-SHA1: 7623a00fecc5168e949b81ea7019d3d6390fc885
-MD5sum: 09f51d7d1fdf3d6b09c39f5842f2f934
+Filename: pool/main/s/snowboy/python3-snowboy_1.3.1-1_all.deb
+Size: 10618026
+SHA256: 88b81298a437e96d316459576cb958f92deb0f92827d8e2cce00e04cb810d7d2
+SHA1: edf25a8388d6a489fdadc816ec09b120b95d1df3
+MD5sum: c515ace77ad1475d60753b1de529bbe0
 Description: Snowboy is a customizable hotword detection engine
 
 Package: seeed-linux-dtoverlay-bb-4.14.108-ti-r124
