@@ -1,3 +1,18 @@
+Package: libiio
+Version: 0.18.g3c7d514
+Architecture: armhf
+Depends: libc6 (>= 2.24), libaio1 (>= 0.3.110), libavahi-client3 (>= 0.6.32), libavahi-common-data (>= 0.6.32), libavahi-common3 (>= 0.6.32), libusb-1.0-0 (>= 2:1.0.21), libxml2 (>= 2.9.4), libserialport0 (>= 0.1.1~stretch)
+Installed-Size: 1645
+Maintainer: Engineerzone <https://ez.analog.com/community/linux-device-drivers>
+Priority: optional
+Section: devel
+Filename: pool/main/libi/libiio/libiio_0.18.g3c7d514_armhf.deb
+Size: 345440
+SHA256: c1043144dc4cbcbbf30c3eab11740ee2528328bd8ef6693baa1e23d288260371
+SHA1: eb06ac9c7a5210fbf53352a0d6f92625c12fbffe
+MD5sum: 56344f41b435cbc05f79f7f75a145fa8
+Description: libiio built using CMake
+
 Package: python3-snowboy
 Source: snowboy
 Version: 1.3.1-1
